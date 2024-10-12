@@ -1,4 +1,2 @@
 # Objetivo do Projeto
-Nosso  objetivo  é  analisar  os  dados  e  verificar  quais  fatores  influenciam  a  taxa  de ocupação  de  imóveis  em  bairros  de  uma  cidade.
-
-Para  realizar  o  trabalho  usaremos  diversos métodos paramétricos (que fazem fortes suposições sobre os dados).
+Aplicar técnicas de regressão não paramétrica para prever o sentimento em avaliações de usuários com base em dados textuais de reviews fictícios. O foco do projeto é demonstrar como usar esses métodos para identificar padrões ocultos em dados de sentimentos, sem assumir uma distribuição específica, proporcionando uma abordagem mais flexível na análise de sentimentos. A partir das avaliações, o objetivo é prever se o sentimento dos usuários é positivo, neutro ou negativo, contribuindo para decisões de negócio mais precisas.
